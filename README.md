@@ -76,5 +76,5 @@ This project answers **5 critical business questions**:
 
 ---
 
-### 🖼️ Screenshot of Home Page of my Dashboard
+### 🖼️ Dashboard Home Page
 ![Dashboard Home Screenshot](https://github.com/Atiwari0208/HR-Dashboard/blob/main/take%20a%20quick%20look%20at%20my%20dashboard.png)
